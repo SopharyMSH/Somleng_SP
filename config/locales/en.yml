@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    errors:
+      models:
+        phone_call:
+          attributes:
+            base:
+              restrict_destroy_status: "Cannot delete record because status is %{status}"
